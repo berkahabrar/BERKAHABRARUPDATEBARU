@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . ",
+"JSON_POPUP_WAIT" : "Sudah siap joget . . . ",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -58,7 +58,7 @@
 
 "UNITY_BANNER" : "12345",
 "UNITY_INTERSTITIAL" : "12345",
-"UNITY_GAME_ID" : "mfxhgryufvs4t",
+"UNITY_GAME_ID" : "12345",
 
 "APPLOVIN_BANNER_MAX_ID" : "",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "",
