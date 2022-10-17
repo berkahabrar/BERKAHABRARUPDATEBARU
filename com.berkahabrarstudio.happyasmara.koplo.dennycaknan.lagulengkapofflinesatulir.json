@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Gas joget . . . ",
+"JSON_POPUP_WAIT" : "Siap joget bareng . . . ",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -56,9 +56,9 @@
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "mfxhgryufvs4t",
+"UNITY_BANNER" : "",
+"UNITY_INTERSTITIAL" : "",
+"UNITY_GAME_ID" : "",
 
 "APPLOVIN_BANNER_MAX_ID" : "",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "",
